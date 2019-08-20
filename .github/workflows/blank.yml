@@ -4,7 +4,7 @@ on: [push]
 
 jobs:
   build:
-
+    name: foobar
     runs-on: ubuntu-latest
     
     steps:
